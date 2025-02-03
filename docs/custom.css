@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .sidebar {
+    background-color: #1f2020;
+  }
+  
+  .sidebar a {
+    color: #42b983;
+  }
+  
